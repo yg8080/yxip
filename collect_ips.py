@@ -4,7 +4,8 @@ import re
 import os
 
 # 目标URL列表
-urls = ['https://cf.vvhan.com', 
+urls = [
+        'https://cf.vvhan.com', 
         'https://ip.164746.xyz'
         ]
 
